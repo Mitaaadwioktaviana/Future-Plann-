@@ -1,6 +1,8 @@
 Rencana Konten
 
 -Javascript
+. CS6
+.Framework
 PHP framework
 Interview
 -Vlogs
