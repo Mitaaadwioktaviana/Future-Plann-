@@ -3,7 +3,7 @@ Rencana Konten
 -Javascript
 . CS6
 .Framework
-  .Argular
+  .vue
 -struktur data dasar
 -PHP framework
   .laravel
