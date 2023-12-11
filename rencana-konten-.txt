@@ -3,7 +3,9 @@ Rencana Konten
 -Javascript
 . CS6
 .Framework
+  .Argular
 -struktur data dasar
 -PHP framework
+  .laravel
 -Interview
 -Vlogs
