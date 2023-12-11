@@ -3,6 +3,7 @@ Rencana Konten
 -Javascript
 . CS6
 .Framework
-PHP framework
-Interview
+-struktur data dasar
+-PHP framework
+-Interview
 -Vlogs
